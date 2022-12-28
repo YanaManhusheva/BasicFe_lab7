@@ -3,7 +3,7 @@ export default function GoodsCard(props) {
   return (
     <div className="GoodsCard">
       <p className="good_name">{props.item.name}</p>
-      <img className="good_img" src={props.item.img} alt="goods image" />
+      <img className="good_img" src={props.item.img} alt="goods " />
       <p className="good_price">{`${props.item.price}$`}</p>
     </div>
   );
