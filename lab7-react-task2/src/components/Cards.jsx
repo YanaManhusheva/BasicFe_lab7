@@ -1,4 +1,3 @@
-import react from "react";
 import GoodsCard from "./GoodsCard.jsx";
 import { goodsData } from "../CardsData";
 import "../App.css";
