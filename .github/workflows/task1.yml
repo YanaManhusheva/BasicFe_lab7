@@ -31,4 +31,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./lab7-react/build
-          destination_dir: ./lab7-react-task2
+          destination_dir: ./lab7-react
