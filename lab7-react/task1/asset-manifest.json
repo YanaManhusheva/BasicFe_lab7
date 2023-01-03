@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BasicFe_lab7/lab7-react/task1/static/css/main.ccb67a90.css",
+    "main.js": "/BasicFe_lab7/lab7-react/task1/static/js/main.d4f16fd9.js",
+    "static/media/Ratush-01.jpg": "/BasicFe_lab7/lab7-react/task1/static/media/Ratush-01.94efa9cfe861183d6976.jpg",
+    "index.html": "/BasicFe_lab7/lab7-react/task1/index.html",
+    "main.ccb67a90.css.map": "/BasicFe_lab7/lab7-react/task1/static/css/main.ccb67a90.css.map",
+    "main.d4f16fd9.js.map": "/BasicFe_lab7/lab7-react/task1/static/js/main.d4f16fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb67a90.css",
+    "static/js/main.d4f16fd9.js"
+  ]
+}
