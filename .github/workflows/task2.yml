@@ -1,4 +1,4 @@
-name: Deploy React Application Lab7 Task1
+name: Deploy React Application Lab7 Task2
 
 on:
   # Triggers the workflow on push but only for the main branch in lab7/task1 path
@@ -31,4 +31,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./lab7-react-task2/build
-          destination_dir: ./lab7-react-task2
+          destination_dir: ./lab7-react/task2
